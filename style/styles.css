@@ -77,3 +77,19 @@ main section:nth-child(2) article:first-child{
     width: 30px;
     height: 30px;
 }
+
+footer {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color: yellow;
+    height: 300px;
+    width: 100vw;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer img{
+    height: 100px;
+    width: 100px;
+}
