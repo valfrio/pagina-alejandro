@@ -74,7 +74,7 @@ main section:first-child h1{
     position: absolute;
     top: 40%;
     left: 42%;
-    color: white;
+    color: black;
     font-size: 50px;
     z-index: 3;
     width: 300px;
